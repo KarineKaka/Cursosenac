@@ -1,0 +1,31 @@
+h1{
+    color: rgba(236, 8, 8, 0.963);
+}
+
+body{
+    background-color: rgb(0, 15, 16);
+}
+h2{
+    color:blue;
+}
+
+h3{
+    color:aquamarine;
+}
+
+h4{
+    color:brown;
+}
+
+h5{
+    color:chocolate;
+}
+
+strong{
+    color:darkgreen;
+}
+
+p{
+    color:gold;
+
+}
